@@ -26,5 +26,7 @@
     "vue-tsc": "^2.1.6",
     "wrangler": "^3.75.0"
   },
-  "packageManager": "pnpm@9.10.0"
+  "resolutions": {
+    "string-width": "4.2.3"
+ }
 }
